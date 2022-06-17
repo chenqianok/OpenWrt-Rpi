@@ -1,6 +1,6 @@
 # OpenWrt-Rpi
 
-## 项目介绍
+## 项目
 
 ForK 源 [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
