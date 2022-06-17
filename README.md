@@ -1,8 +1,8 @@
-# [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
+# [OpenWrt-Rpi]
 
 ## 项目介绍
 
-ForK for SuLingGG/OpenWrt-Rpi
+ForK for [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 ## 文档
 
