@@ -2,21 +2,11 @@
 
 ## 项目介绍
 
-ForK for [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
+ForK 源 [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 ## 文档
 
 [doc.openwrt.cc](https://doc.openwrt.cc/2-OpenWrt-Rpi)
-
-## 固件预览
-
-### 主界面:
-
-![主界面](https://ae05.alicdn.com/kf/H6814822fa93d4246837bea1edcec6d23j.png)
-
-### 内置功能:
-
-![内置功能](https://ae02.alicdn.com/kf/Hf29f2d94339d4188bbdde7f3131b500af.png)
 
 ## 鸣谢
 
