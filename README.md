@@ -6,7 +6,7 @@ ForK 源 [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 ## 文档
 
-[doc.openwrt.cc](https://doc.openwrt.cc/2-OpenWrt-Rpi)
+[doc.openwrt.cc](https://doc.openwrt.cc/2-OpenWrt-Rpi) （SulingGG）
 
 ## 鸣谢
 
