@@ -12,7 +12,7 @@ ForK 源 [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 感谢以下项目 / 厂商:
 
-| Github Actions                                        | OpenWrt 源码项目                                             | OpenWrt 构建项目                                             | Action 项目                                                  | 云服务厂商                               |
+| Github Actions                                        | OpenWrt 源码项目                                             | OpenWrt 构建项目                                             | Action 项目                                                  | 云服务商                               |
 | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
 | [Github Actions](https://github.com/features/actions) | [openwrt/openwrt](https://github.com/openwrt/openwrt/)       | [openwrt/buildbot](https://git.openwrt.org/?p=buildbot.git;a=summary) | [ncipollo/release-action](https://github.com/ncipollo/release-action) | [Acloud](https://acloud.net/)            |
 |                                                       | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)    | [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) | [mknejp/delete-release-assets](https://github.com/mknejp/delete-release-assets) | [Cloudflare](https://www.cloudflare.com) |
