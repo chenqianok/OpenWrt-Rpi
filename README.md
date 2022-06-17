@@ -1,16 +1,22 @@
 # OpenWrt-Rpi
 
-## 项目
+## 固件参数
+
+IP地址：192.168.1.1
+默认账户：root
+初始密码：password
+
+## 项目来源
 
 ForK 源 [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
-## 文档
+## 详细文档
 
 [doc.openwrt.cc](https://doc.openwrt.cc/2-OpenWrt-Rpi) （SulingGG）
 
-## 鸣谢
+## 特别鸣谢
 
-特别鸣谢 [SuLingGG](https://github.com/SuLingGG) 贡献 Fork 源
+感谢 [SuLingGG](https://github.com/SuLingGG) 贡献 Fork 源
 
 感谢以下项目 / 厂商贡献源码、软件及服务资源:
 
